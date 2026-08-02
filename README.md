@@ -13,6 +13,7 @@ This repository documents my daily progress as I learn Python through practical 
 | Day 1 | Python Basics, Variables & Input/Output | ✅ |
 | Day 2 | Python Operators | ✅ |
 | Day 3 | Conditional Statements | ✅ |
+| Day 4 | Loops in Python | ✅ |
 
 ---
 
