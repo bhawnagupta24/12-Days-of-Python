@@ -14,6 +14,9 @@ This repository documents my daily progress as I learn Python through practical 
 | Day 2 | Python Operators | ✅ |
 | Day 3 | Conditional Statements | ✅ |
 | Day 4 | Loops in Python | ✅ |
+| Day 5 | Number Guessing Game | ✅ |
+
+
 
 ---
 
