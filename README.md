@@ -21,9 +21,6 @@ This repository documents my daily progress as I learn Python through practical 
 
 ---
 
-## 📂 Repository Structure
-
-```text
 12-Days-of-Python/
 │
 ├── Day-01/
@@ -31,13 +28,42 @@ This repository documents my daily progress as I learn Python through practical 
 │   ├── InputOutput.py
 │   └── README.md
 │
+├── Day-02/
+│   ├── operators.py
+│   └── README.md
+│
+├── Day-03/
+│   ├── Conditional.py
+│   ├── Question.py
+│   └── README.md
+│
+├── Day-04/
+│   ├── loop.py
+│   ├── Question.py
+│   └── README.md
+│
+├── Day-05/
+│   ├── random_game.py
+│   └── README.md
+│
+├── Day-06/
+│   ├── function.py
+│   └── README.md
+│
+├── Day-07/
+│   ├── DataStructure.py
+│   ├── Question_list.py
+│   ├── Question.dict.py
+│   └── README.md
+│
 └── README.md
 ```
 
 ---
 
-## 🎯 What I Learned in Day 1
+## 🎯 What I Learned
 
+### Day 1 – Python Basics
 - Python Introduction
 - Variables
 - Variable Naming Conventions
@@ -45,7 +71,80 @@ This repository documents my daily progress as I learn Python through practical 
 - String Slicing
 - Type Conversion
 - Input & Output
-- Formatted Strings (f-Strings)
+- f-Strings
+
+### Day 2 – Python Operators
+- Arithmetic Operators
+- Assignment Operators
+- Compound Assignment Operators
+- Comparison Operators
+- Logical Operators
+- ASCII Values
+- String Comparison
+
+### Day 3 – Conditional Statements
+- if Statement
+- if-else Statement
+- if-elif-else Statement
+- User Input
+- Decision Making
+- Even/Odd Check
+- Voting Eligibility
+- Leap Year
+- Temperature Classification
+
+### Day 4 – Loops
+- for Loop
+- while Loop
+- range()
+- continue Statement
+- Number Reversal
+- Palindrome
+- Prime Number
+- Perfect Number
+- Factorial
+- Multiplication Table
+- String Traversal
+
+### Day 5 – Number Guessing Game
+- random Module
+- random.randint()
+- while Loop
+- User Input
+- Conditional Statements
+- Try Counter
+- Mini Project
+
+### Day 6 – Functions
+- Functions
+- Parameters
+- Positional Arguments
+- Keyword Arguments
+- Default Arguments
+- return Statement
+- Palindrome Function
+
+### Day 7 – Data Structures
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- List Methods
+- Tuple Methods
+- Set Operations
+- Dictionary Methods
+- Deep Copy & Shallow Copy
+
+---
+
+## 🎯 Goals
+
+- Build strong Python fundamentals
+- Practice coding every day
+- Improve logical and problem-solving skills
+- Learn through hands-on practice
+- Build small projects
+- Complete the 12-day Python challenge
 
 ---
 
@@ -53,13 +152,14 @@ This repository documents my daily progress as I learn Python through practical 
 
 - Python 3.x
 - VS Code
+- Git
+- GitHub
 
 ---
 
 ## 📈 Current Progress
 
-- ✅ Day 1 Completed
-- 🚀 More updates coming soon...
+**7 / 12 Days Completed**
 
 ---
 
