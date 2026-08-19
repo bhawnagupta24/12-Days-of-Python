@@ -18,7 +18,7 @@ This repository documents my daily progress as I learn Python through practical 
 | Day 6 | Functions in Python | ✅ |
 | Day 7 | Python Data Structures | ✅ |
 | Day 8 | Exception Handling & File Handling | ✅ |
-
+| Day 9 | File & Folder Management | ✅ |
 
 
 ---
