@@ -138,6 +138,39 @@ HHHH
 - Dictionary Methods
 - Deep Copy & Shallow Copy
 
+### Day 8 – Exception Handling & File Handling
+
+- Exception Handling
+- try Statement
+- except Statement
+- ZeroDivisionError
+- Exception
+- else Block
+- finally Block
+- raise Statement
+- ValueError
+- File Handling
+- Opening Files
+- Writing to Files
+- Appending to Files
+- Closing Files
+
+### Day 9 – File & Folder Management
+
+- pathlib Module
+- os Module
+- Path
+- File & Folder Listing
+- File Creation
+- Reading Files
+- Updating Files
+- Renaming Files
+- Appending Content
+- Deleting Files
+- Exception Handling
+- Functions
+- Menu-Driven File Management
+
 ---
 
 ## 🎯 Goals
